@@ -132,4 +132,4 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 
 ---
 
-🚀 Let FinWell guide your financial and wellness journey.
+Let FinWell guide your financial and wellness journey.
