@@ -6,7 +6,7 @@ chat = ChatProtocol()
 
 # Replace with real addresses (AgentVerse or MCP)
 ANALYST_ADDRESS = "agent1q0ejvvp7x302ulx05389ncdfellmag6up4d2raa9v7dfrjarh4v52237sq7"
-NEWS_ADDRESS = "agent1xyz..."
+NEWS_ADDRESS = "agent1qw8zfyazf0ajmsl3gm6gdnm0m824sp6qq6xw9krtvuva9lt5xfvf55c0wce"
 CRYPTO_ADDRESS = "agent1q0h70caed8ax769shpemapzkyk65uscw4xwk6dc4t3emvp5jdcvqs9xs32y"
 SOLANA_ADDRESS = "agent1q0h70caed8ax769shpemapzkyk65uscw4xwk6dc4t3emvp5jdcvqs9xs32y"
 HEALTH_ADDRESS = "agent1qv3dag4483k5dv4wkcncy65xpyrq4hgwk6nvuf0xzrhfz33cxaqj6xpg9c7"
