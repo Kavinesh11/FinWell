@@ -8,13 +8,14 @@ import os
 
 # --- ENVIRONMENT & LLM SETUP ---
 load_dotenv(dotenv_path="D:/FETCH_AI_HACKATHON/.env")
-GEMINI_KEY = os.getenv("GEMINI_KEY")
+ASI_KEY = os.getenv("ASI_KEY")
 if not GEMINI_KEY:
-    raise ValueError("GEMINI_KEY not set in .env file!")
+    raise ValueError("ASI not set in .env file!")
 
 llm = LLM(
-    model="gemini/gemini-2.0-flash-lite",
-    api_key=GEMINI_KEY,
+    model="asi1-mini",
+    endpoint="https://api.asi1.ai/v1/chat/completions",
+    api_key=ASI_KEY,
     temperature=0.0
 )
 
