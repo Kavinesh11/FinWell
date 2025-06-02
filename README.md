@@ -124,7 +124,7 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 
 ## Project Pitch
 
-> **"FinWell is a decentralized personal finance & wellness agent network that helps users manage stock investments, crypto portfolios, and health coverage through intelligent, autonomous agents. Powered by Fetch.ai’s uAgents framework, ChatProtocol, and ASI1 Mini LLM, it delivers conversational access to expert insights across domains—making your financial and wellness decisions smarter, faster, and fully connected."**
+>**"FinWell is a decentralized personal finance & wellness agent network that helps users manage stock investments, crypto portfolios, and health coverage through intelligent, autonomous agents. Powered by Fetch.ai’s uAgents framework, ChatProtocol, and ASI1 Mini LLM, it delivers conversational access to expert insights across domains—making your financial and wellness decisions smarter, faster, and fully connected."**
 
 ---
 
