@@ -1,6 +1,6 @@
 # FinWell: Your Personal Finance & Wellness Copilot Using Fetch.ai
 
-![FinWell Architecture](./docs/architecture.png)
+![FinWell Architecture](./docs/pipeline.jpg)
 
 ---
 
