@@ -125,10 +125,10 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 
 ## Contributors
 
-- [Pooja Shree S](#)
-- [Kavinesh P](#)
+- [Pooja Shree S](https://github.com/Pooja29Shree)
+- [Kavinesh P](https://github.com/Kavinesh11)
 - [Swapneel](#)
-- [Akshay KS](#) 
+- [Akshay KS](https://github.com/akshayks13)
 
 ---
 
