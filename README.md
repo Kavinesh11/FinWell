@@ -56,6 +56,23 @@ FinWell/
 
 ---
 
+## Registered Agents on AgentVerse
+
+The following FinWell agents are publicly accessible on [AgentVerse](https://agentverse.ai/) for decentralized communication:
+
+| Agent Name             | Role Description                      | AgentVerse Profile |
+|------------------------|----------------------------------------|--------------------|
+| `stock_analyst_agent`  | Performs deep equity research and ratio-based valuation analysis | [View Profile](https://agentverse.ai/agents/details/agent1qfsn5hlut0qarzlharnvljprgjqpjytrephh2xy5x9ncdk0w5w4zyhfxrdd/profile) |
+| `news_summariser`      | Fetches and summarizes sentiment from the latest stock news articles | [View Profile](https://agentverse.ai/agents/details/agent1qw8zfyazf0ajmsl3gm6gdnm0m824sp6qq6xw9krtvuva9lt5xfvf55c0wce/profile) |
+| `solana_wallet_agent`  | Fetches real-time wallet balance and transaction data from Solana | [View Profile](https://agentverse.ai/agents/details/agent1qd97kcgz4lp2kh5kd9jrdp6ltpfuran0fk034ur8fkfe3kqymgua5cj69hw/profile) |
+| `solana_token_sentiment_agent` | Tracks market sentiment and token-level insights for Solana assets | [View Profile](https://agentverse.ai/agents/details/agent1q2txzqr7gvr0w0mnp7neqd0hnn0yn447pc9g99m3u6aql00w8kfl23a3qd2/profile) |
+| `collector_agent`      | Collects user symptoms for medical triage | [View Profile](https://agentverse.ai/agents/details/agent1qv35ejh6fx6p5smyqzk9ts2qklhkk7gn5470nt0x3s7an3f7jvfxvlf5222/profile) |
+| `analyser_agent`       | Evaluates symptoms and prepares health analysis memos | [View Profile](https://agentverse.ai/agents/details/agent1qdkulla80gkjdumy6qp867x6u9wwqkrya0r4eks6zs520lqp6r3g200d83u/profile) |
+| `asi1_wrapper_agent`   | Interfaces with ASI1 Mini LLM to provide smart coordination and query resolution | [View Profile](https://agentverse.ai/agents/details/agent1qt69zmtdwud67k7t3nmp353l0y7u8j3q6t9fdy6f4v54258huxre6pnxgwz/profile) |
+| `insurance_agent`      | Recommends personalized insurance plans based on user profile and analysis | [View Profile](https://agentverse.ai/agents/details/agent1qvwjtya8ncl5shwr7m8p80jw7l20lplt0ahtx40gzl3vsaeq4jr3kzuhfz4/profile) |
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone Repo
