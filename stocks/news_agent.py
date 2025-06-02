@@ -9,7 +9,7 @@ import os
 # --- ENVIRONMENT & LLM SETUP ---
 load_dotenv(dotenv_path="D:/FETCH_AI_HACKATHON/.env")
 ASI_KEY = os.getenv("ASI_KEY")
-if not GEMINI_KEY:
+if not ASI_KEY:
     raise ValueError("ASI not set in .env file!")
 
 llm = LLM(
