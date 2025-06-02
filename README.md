@@ -87,7 +87,7 @@ cd FinWell
 Place `.env` files in relevant directories, including:
 
 - `ASI_LLM_KEY` for ASI1 wrapper
-- `GEMINI_KEY` for analyst/news agents
+- `ASI_KEY` for analyst/news agents
 
 ### 3. Install Dependencies
 
