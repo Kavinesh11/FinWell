@@ -149,7 +149,7 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 
 - [Pooja Shree S](https://github.com/Pooja29Shree)
 - [Kavinesh P](https://github.com/Kavinesh11)
-- [Swapneel](#)
+- [Swapneel](https://github.com/SWAPNEEL983)
 - [Akshay KS](https://github.com/akshayks13)
 
 ---
