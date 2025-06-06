@@ -28,11 +28,10 @@ def get_company_name(ticker):
     return names.get(ticker.upper(), ticker.split(".")[0])
 
 # --- LLM SETUP ---
-ASI_KEY = os.getenv("ASI_KEY")
+GEMINI_KEY = os.getenv("GEMINI_KEY")
 llm = LLM(
-    model="asi1-mini",
-    endpoint="https://api.asi1.ai/v1/chat/completions",
-    api_key=ASI_KEY,
+    model="google/gemini-2.0-flash",
+    api_key=GEMINI_KEY,
     temperature=0.0
 )
 
