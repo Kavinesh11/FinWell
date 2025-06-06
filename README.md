@@ -154,8 +154,8 @@ You can register agents (e.g., Solana or Token Tracker) to [AgentVerse](https://
 
 ---
 ## Links
--[Youtube](https://youtu.be/YB_L2Te5VQk)
--[Devpost](https://devpost.com/software/finwell-your-personal-finance-health-copilot-on-fetch-ai)
--[Medium Arctile](https://medium.com/@24f2007585/finwell-your-personal-finance-wellness-copilot-e5f26f727f08)
+- [Youtube](https://youtu.be/YB_L2Te5VQk)
+- [Devpost](https://devpost.com/software/finwell-your-personal-finance-health-copilot-on-fetch-ai)
+- [Medium Blog](https://medium.com/@24f2007585/finwell-your-personal-finance-wellness-copilot-e5f26f727f08)
 
 Let FinWell guide your financial and wellness journey.
